@@ -1,0 +1,4 @@
+location,latitude,longitude,severity,water_depth_cm,notes,source,reported_at
+T. Nagar (demo),13.0418,80.2337,High,25,Illustrative demo report,Sample data,Demo
+Velachery (demo),12.9750,80.2210,Medium,12,Illustrative demo report,Sample data,Demo
+Anna Nagar (demo),13.0850,80.2101,Low,4,Illustrative demo report,Sample data,Demo
